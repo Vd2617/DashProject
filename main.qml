@@ -18,6 +18,12 @@ Window {
         scale:0.7
 
     }
+    Image {
+        id: img1
+        source: "qrc:/HeightScale_v.1.0.png"
+        scale:0.7
+
+    }
 
 
 

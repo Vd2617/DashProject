@@ -3,5 +3,6 @@
         <file>main.qml</file>
         <file>MainForm.ui.qml</file>
         <file>HeightScale.png</file>
+        <file>HeightScale_v.1.0.png</file>
     </qresource>
 </RCC>
